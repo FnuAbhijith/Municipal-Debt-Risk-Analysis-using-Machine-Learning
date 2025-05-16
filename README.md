@@ -2,6 +2,9 @@
 
 This project predicts bad debt in South African municipalities using machine learning models like CatBoost, MLP, and Random Forest.
 
+![Municipal-Debt-Risk-Analysis-using-Machine-Learning](https://github.com/user-attachments/assets/6b4353da-63e9-4114-b15c-99c639d66ea1)
+
+
 ## 🎯 Goal
 
 To help municipalities identify customers likely to default on payments using billing and receipting history data, enabling early intervention.
